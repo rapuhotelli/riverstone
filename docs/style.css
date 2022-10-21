@@ -71,7 +71,9 @@ h1 {
     color: rgb(206, 206, 206);
     font-family: sans-serif;
 }
-
+.main-detail {
+    filter: drop-shadow(2px 1px 1px black);
+}
 .entry {
     margin-top: 16px;
     margin-bottom: 16px;
